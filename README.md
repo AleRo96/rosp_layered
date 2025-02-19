@@ -42,7 +42,10 @@ rosp_layered/
 │── package.xml
 
 ```
-## GRAPH AND ASPECTED BEHAVIOUR
+## GRAPH AND EXPECTED BEHAVIOUR
 
+
+![GRAPH AND EXPECTED BEHAVIOUR](documents/your_image.png)
+![GRAPH AND EXPECTED BEHAVIOUR](documents/your_image.png)
 
    
