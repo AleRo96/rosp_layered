@@ -46,6 +46,6 @@ rosp_layered/
 
 
 ![GRAPH AND EXPECTED BEHAVIOUR](documents/Screenshot from 2025-02-19 17-13-04.png)
-![GRAPH AND EXPECTED BEHAVIOUR](documents/your_image.png)
+![GRAPH AND EXPECTED BEHAVIOUR](documents/rosgraph.svg)
 
    
